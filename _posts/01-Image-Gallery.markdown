@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-crawlertitle: "How to use jekyll"
-summary: "Jekyll default page"
+title:  "Image Gallery"
+crawlertitle: "Images of Foxes"
+summary: "Images of foxes"
 date:   2016-06-28 23:09:47 +0700
 categories: posts
 tags: 'jekyll'
